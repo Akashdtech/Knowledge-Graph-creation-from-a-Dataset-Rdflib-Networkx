@@ -1,0 +1,4 @@
+pandas==1.5.3 
+networkx==2.8.8
+rdflib==6.3.2
+matplotlib==3.7.1
